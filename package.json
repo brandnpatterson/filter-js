@@ -1,7 +1,7 @@
 {
-  "name": "filter",
+  "name": "filter-js",
   "version": "1.0.0",
-  "description": "filter",
+  "description": "filter-js",
   "author": "Brandon Patterson",
   "license": "MIT",
   "scripts": {
