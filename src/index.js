@@ -125,3 +125,5 @@ $reset.addEventListener('click', () => {
   setDefaultState();
   render();
 });
+
+console.log(items);
